@@ -1,5 +1,4 @@
 import json
-from typing import get_origin
 
 from django.http import response
 from django.test import Client
